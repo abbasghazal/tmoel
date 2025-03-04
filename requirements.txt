@@ -25,6 +25,7 @@ schedule==1.2.1
 six==1.16.0
 Telethon==1.31.1
 TGConvertor==0.0.7
+TgCrypto==1.2.5
 typing_extensions==4.8.0
 urllib3==2.0.7
 user-agent==0.1.10
